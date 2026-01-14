@@ -1,0 +1,1 @@
+This pull request adds input validation to the staking function to prevent users from staking zero or negative amounts. It improves contract safety and avoids unnecessary state updates.
